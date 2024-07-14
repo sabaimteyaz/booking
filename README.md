@@ -33,4 +33,4 @@ This project provides a RESTful API for booking train tickets for a journey from
    cd booking
    mvn clean install
    mvn spring-boot:run
-```
+   ```
